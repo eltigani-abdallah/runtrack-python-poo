@@ -24,3 +24,5 @@ mario.haut()
 mario.droite()
 
 mario.position()
+
+mario.gauche()
