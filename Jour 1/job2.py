@@ -1,4 +1,3 @@
-import random
 class Operation():
     def __init__(self, nombre1=1, nombre2=2):
         self.nombre1= nombre1
